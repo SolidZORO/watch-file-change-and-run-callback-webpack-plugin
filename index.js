@@ -16,7 +16,13 @@ class WatchFileChangeAndRunCallbackWebpackPlugin {
         this.opts.matchs.forEach((m) => {
           if (!m.filePath || m.filePath !== changedFile) return;
 
-          if (m.callback && typeof m.callback === 'function') m.callback();
+          if (m.callback && typeof m.callback === 'function') {
+            console.log('----------------------------------');
+            console.log('FILE CHANGE:', changedFile);
+            console.log('----------------------------------');
+
+            m.callback();
+          }
         });
       },
     );
