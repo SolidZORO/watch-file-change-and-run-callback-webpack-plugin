@@ -1,6 +1,6 @@
 {
   "name": "watch-file-change-and-run-callback-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "sideEffect": false,
   "author": "Jason Feng <solidzoro@live.com>",
