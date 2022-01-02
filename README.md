@@ -3,6 +3,7 @@
 [![version][npm-img]][npm-url]
 [![license][mit-img]][mit-url]
 [![size][size-img]][size-url]
+[![download][download-img]][download-url]
 
 🚧 WIP（持续优化中……）
  
