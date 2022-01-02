@@ -1,10 +1,8 @@
 # watch-file-change-and-run-callback-webpack-plugin
 
-<!--
-[![Build Status][build-img]][build-url]
--->
-[![NPM version][npm-img]][npm-url]
-[![License: MIT][mit-img]][mit-url]
+[![version][npm-img]][npm-url]
+[![license][mit-img]][mit-url]
+[![size][size-img]][size-url]
 
 🚧 WIP（持续优化中……）
  
@@ -41,13 +39,26 @@ new WatchFileAndRunCallbackWebpackPlugin({
 
 <!-- badges -->
 
-[mit-img]: https://img.shields.io/badge/License-MIT-blue.svg
+
+[mit-img]: https://img.shields.io/npm/l/watch-file-change-and-run-callback-webpack-plugin.svg?style=flat&colorA=000000&colorB=000000
 
 [mit-url]: ./LICENSE
 
-[npm-img]: https://img.shields.io/npm/v/watch-file-change-and-run-callback-webpack-plugin.svg
+
+[npm-img]: https://img.shields.io/npm/v/watch-file-change-and-run-callback-webpack-plugin?style=flat&colorA=000000&colorB=000000
 
 [npm-url]: https://www.npmjs.com/package/watch-file-change-and-run-callback-webpack-plugin
+
+
+[size-img]: https://img.shields.io/bundlephobia/minzip/watch-file-change-and-run-callback-webpack-plugin?label=bundle&style=flat&colorA=000000&colorB=000000
+
+[size-url]: https://www.npmjs.com/package/watch-file-change-and-run-callback-webpack-plugin
+
+
+[download-img]: https://img.shields.io/npm/dt/watch-file-change-and-run-callback-webpack-plugin.svg?style=flat&colorA=000000&colorB=000000
+
+[download-url]: https://www.npmjs.com/package/watch-file-change-and-run-callback-webpack-plugin
+
 
 [build-img]: https://github.com/SolidZORO/watch-file-change-and-run-callback-webpack-plugin/workflows/badge.svg
 
