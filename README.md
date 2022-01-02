@@ -6,7 +6,6 @@
 [![download][download-img]][download-url]
 
 🚧 WIP（持续优化中……）
- 
 
 
 ## Installation
@@ -36,9 +35,11 @@ new WatchFileAndRunCallbackWebpackPlugin({
 
 ## License
 
-© [MIT][mit-url]
+MIT © [Jason Feng][author-url]
 
 <!-- badges -->
+
+[author-url]: https://github.com/SolidZORO
 
 
 [mit-img]: https://img.shields.io/npm/l/watch-file-change-and-run-callback-webpack-plugin.svg?style=flat&colorA=000000&colorB=000000
