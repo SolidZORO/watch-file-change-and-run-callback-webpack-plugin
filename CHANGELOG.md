@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/SolidZORO/watch-file-change-and-run-callback-webpack-plugin/compare/v0.0.3...v0.1.0) (2022-01-04)
+
+
+### Features
+
+* compatible with Webpack `5` & `4` ([021caf3](https://github.com/SolidZORO/watch-file-change-and-run-callback-webpack-plugin/commit/021caf35b861f51a9b217a6938a48d93c5b94df6))
+
 ### [0.0.3](https://github.com/SolidZORO/watch-file-change-and-run-callback-webpack-plugin/compare/v0.0.2...v0.0.3) (2022-01-02)
 
 
